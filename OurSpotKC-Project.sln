@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OurSpotKC", "..\OurSpotKC-Blazor\OurSpotKC\OurSpotKC.csproj", "{6B310241-223B-4231-BCB0-8D57436A3F8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OurSpotKCImporter", "..\OurSpotKC-Blazor\OurSpotKCImporter\OurSpotKCImporter.csproj", "{14822A9A-AEB3-45FE-8A81-75E367F78CFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B310241-223B-4231-BCB0-8D57436A3F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B310241-223B-4231-BCB0-8D57436A3F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B310241-223B-4231-BCB0-8D57436A3F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B310241-223B-4231-BCB0-8D57436A3F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14822A9A-AEB3-45FE-8A81-75E367F78CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14822A9A-AEB3-45FE-8A81-75E367F78CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14822A9A-AEB3-45FE-8A81-75E367F78CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14822A9A-AEB3-45FE-8A81-75E367F78CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6076BC47-DD99-4412-865D-E41A5F52CDC0}
+	EndGlobalSection
+EndGlobal
