@@ -1,0 +1,440 @@
+INSERT INTO Resources (name, Description, ImageUrl, Address,  CategoryId) VALUES ('Avenue of Life','
+<p>Our mission is to mobilize our community to equip and empower low-income individuals and families to be self-sustained and independent. </p>
+','','500 N 7th St Trfy, Kansas City, KS 66101',1),('Avenue of Life','','','',1),('Avenue of Life','
+<p>Our mission is to mobilize our community to equip and empower low-income individuals and families to be self-sustained and independent. </p>
+','','500 N 7th St Trfy, Kansas City, KS 66101',2),('Avenue of Life','
+<p>Our mission is to mobilize our community to equip and empower low-income individuals and families to be self-sustained and independent. </p>
+','','500 N 7th St Trfy, Kansas City, KS 66101',1),('Friends of Yates','
+<p>
+
+Friends of Yates is a comprehensive community agency that provides a full menu of community care and support including domestic violence education, prevention services, youth and adult development and emergency shelter and resources to survivors of domestic violence and their family.
+
+</p>
+','','1418 Garfield Ave. Kansas City, Kansas 66104',3),('Metro-Wide Domestic Violence Hotline','','','',3),('MOCSA Sexual Assault Scrisis Hotline','','','',2),('Missouri Organization to Counter Sexual  Assault','','','',2),('Missouri Organization to Counter Sexual Assault','','','',2),('Family Violence Hotline','','','',2),('Kansas City Anti-Violence Project','
+<p>The Kansas City Anti-Violence Project (KCAVP) is a 501(c)(3) nonprofit corporation committed to providing?<strong>domestic violence, sexual assault, and hate crimes</strong>?advocacy and education to the?<strong>lesbian, gay, bisexual, transgender and queer community</strong>.</p>
+','','',3),('Missouri Coalition Against Sexual Assault','
+<p>
+
+The Missouri Court Appointed Special Advocate Association (MOCASA) supports, improves, and grows local<br>Court Appointed Special Advocate programs and leads advocacy efforts for abused and neglected<br>children across Missouri.
+
+</p>
+','','',3),('Kansas Coalition Against Sexual and DV','
+<p>
+
+KCSDV is a statewide nonprofit organization ? and coalition ? with the mission of preventing and eliminating&nbsp;<a href="https://www.kcsdv.org/learn-more/sexual-violence/">sexual</a>&nbsp;and&nbsp;<a href="https://www.kcsdv.org/learn-more/domestic-violence/">domestic</a>&nbsp;violence.
+
+</p>
+','','',3),('Missouri Coalition Against Domestic Violence','
+<p>The Missouri Coalition Against Domestic and Sexual Violence (MCADSV) unites Missourians with a shared value that rape and abuse must end, and advances this through education, alliance, research and public policy.</p>
+','','',3),('National Center on Elder Abuse','
+<p>
+
+The National Center on Elder Abuse (NCEA) is a national resource for elder rights, law enforcement and legal professionals, public policy leaders, researchers, and the public.&nbsp;
+
+</p>
+','','',3),('American Public Human Services Association','
+<p>
+
+APHSA&nbsp;<em>connects</em>&nbsp;its members to national policymakers and human-serving organizations across a wide circle of stakeholders in the health and human services sector, as well as key partners in education, housing, employment, and others.
+
+</p>
+','','',3),('Gay Men&#8217;s Domestic Violence Project','','','',3),('National Network to End Domestic Violence','
+<p>
+
+The National Network to End Domestic Violence (NNEDV), a social change organization, is dedicated to creating a social, political, and economic environment in which violence against women no longer exists.
+
+</p>
+','','',3),('National Online Resource Center on Violence Against Women','
+<p>
+
+To accelerate social change through an accessible digital library of tools that expands capacity and advance efforts to end gender-based violence and intersecting issues.
+
+</p>
+','','',3),('National Coalition Against Domestic Violence','','','',3),('National Domestic Violence Hotline','','','',3),('National Coalition Against Domestic Violence','
+<p>
+
+The National Coalition Against Domestic Violence (NCADV)&#8217;s mission&nbsp;is to lead, mobilize and raise our voices to support efforts that demand a change of conditions that lead to domestic violence such as patriarchy, privilege, racism, sexism, and classism. We are dedicated to supporting survivors and holding offenders accountable and supporting advocates.
+
+</p>
+','','',3),('National Domestic Violence Hotline','
+<p>
+
+Operating&nbsp;around the clock, seven days a week, confidential and free of cost, the National Domestic Violence Hotline provides lifesaving tools and immediate support to enable victims to find safety and live lives free of abuse. Callers to The Hotline at 1-800-799-SAFE (7233) can expect highly trained, experienced advocates to offer compassionate support, crisis intervention information, educational services and referral services in more than 200 languages.&nbsp;
+
+</p>
+','','',3),('Wyandot Center For Community Behavioral Healthcare','
+<p>
+
+Wyandot Center has provided exceptional care for adults experiencing depression, anxiety, grief and loss, trauma, substance use and suicidal thoughts. We believe every person can live happy and healthy lives. At Wyandot Center, you are a valued partner in the services we provide.&nbsp; We adhere to a person-centered, trauma-informed and culturally competent approach.
+
+</p>
+','','7840 Washington Ave, Kansas City, KS 66112',4),('Johnson County Mental Health Center','
+<p>
+
+Johnson County Mental Health Center offers a wide range of mental health and substance abuse services to Johnson County residents. The Mental Health Center serves as a safety net for individuals with the most severe forms of mental illness, including those who are unable to afford or access care elsewhere in the community. If we are not the appropriate provider for you, we will assist you in finding a provider in the community that can better meet your needs.
+
+</p>
+','','1125 W Spruce St, Olathe, KS 66061',4),('MY3 App','
+<p>MY3 LETS YOU STAY CONNECTED WHEN YOU ARE HAVING THOUGHTS OF SUICIDE.  With MY3, you define your network and your plan to stay safe. With MY3 you can be prepared to help yourself and reach out to others when you are having thoughts of suicide.  Remember: there is hope and a life to look forward to, even in your darkest moments. MY3 can help you get through your most difficult times.  </p>
+','','',4),('National Suicide Prevention Lifeline','
+<p>The National Suicide Prevention Lifeline provides free and confidential emotional support to people in suicidal crisis or emotional distress 24 hours a day, 7 days a week, across the United States. The Lifeline is comprised of a national network of over 150 local crisis centers, combining&nbsp;custom local care and resources with national&nbsp;standards and best practices.<br></p>
+','','',4),('Center for Behavioral Medicine','
+<p>
+
+The Division of Behavioral Health (DBH), formerly the Divisions of Alcohol and Drug Abuse and Comprehensive Psychiatric Services, is responsible for making sure prevention, evaluation, treatment, and rehabilitation services are available for individuals and families that need public mental health services throughout the State of Missouri.
+
+</p>
+','','1000 E 24th St, Kansas City, MO 64108',4),('Research Psychiatric Center','
+<p>
+
+Research Psychiatric Center has provided comprehensive&nbsp;<a href="https://researchpsychiatriccenter.com/services">behavioral health services</a>&nbsp;for more than 25 years to teenagers, adults and seniors dealing with emotional disorders, mental illness and substance abuse. Our mental health programs offer a complete range of acute inpatient, day treatment and community based outpatient behavioral healthcare.
+
+</p>
+','','2323 East 63rd Street Kansas City, MO 64130',4),('Mental Health America of the Heartland','','','739 Minnesota Ave, Kansas City, KS 66101',4),('Mental Health Helpline','','','',4),('FEC Job Search Site','
+<p>
+
+Not sure how to get started with your job search? Whether you&#8217;re&nbsp;looking for a new career, are ready to start your first job, or have lost your job, we offer products and services to you at no cost.
+
+</p>
+','','1740 The Paseo Kansas City, MO 64108',1),('Dress for Success','
+<p>
+
+Dress for Success is an international not-for-profit organization that empowers women to achieve economic independence by providing a network of support, professional attire and the development tools to help women thrive in work and in life.
+
+</p>
+','','300 W. Linwood Blvd. Kansas City, Missouri 64111 United States of America',1),('Connections to Success','
+<p>
+
+At Connections, we provide a comprehensive network of services and support to help people living in poverty become economically self-sufficient. Our model, with lifelong mentoring at its core, delivers evidence-based results and impacts all areas of a person?s life. This is built upon our mission and values.
+
+</p>
+','','300 W. Linwood Boulevard Kansas City, MO 64111',1),('KANSASWORKS','
+<p><strong>KANSAS</strong>WORKS is a web-based job-matching and labor market information system.&nbsp;<strong>KANSAS</strong>WORKS provides job seekers, employers, and training providers with easy-to-use tools that support a wide range of activities. As a service of the public workforce system, KANSASWORKS is completely free for you to use.&nbsp;
+
+</p>
+','','',1),('Workforce Partnership','
+<p>
+
+Workforce Partnership is committed to building a workforce development system that meets the needs of both job seekers and employers throughout the Kansas City area. We operate a network of career centers in Johnson, Leavenworth, and Wyandotte counties offering professional expertise and funding resources to employers and eligible job seekers.
+
+</p>
+','','626 Minnesota Avenue Kansas City, KS 66101',1),('Kansas Department of Revenue','','','',1),('Kansas Department Of Labor','
+<p>
+
+KDOL assists in&nbsp;the prevention of economic insecurity&nbsp;through unemployment insurance and&nbsp;workers compensation, by providing&nbsp;a fair and efficient venue to exercise&nbsp;employer and employee rights, and&nbsp;by helping employers promote a safe&nbsp;work environment for their employees.&nbsp;This facilitates compliance with labor&nbsp;laws while enabling advancement of the&nbsp;economic well-being of the citizens of Kansas.&nbsp;
+
+</p>
+','','401 SW Topeka Blvd, Topeka, KS 66603',1),('Catholic Charities Refugee Services','
+<p>
+
+As a faith-based organization, we are inspired by God?s love and compassion to provide unconditional love and necessary help to people of all faiths by stabilizing and strengthening individuals and families in need across the 21 counties of Northeast Kansas.
+
+</p>
+','','9720 W 87th St, Overland Park, KS 66212',1),('Avenue of Life','
+<p>
+
+Our mission is to mobilize our community to equip and empower low-income individuals and families to be self-sustained and independent.
+
+</p>
+','','500 N 7th St Trfy, Kansas City, KS 66101',1),('Kansas City Job Corps','
+<p>
+
+Job Corps is the largest nationwide residential career training program in the country and has been operating for more than 50 years. The program helps eligible young people ages 16 through 24 train for meaningful careers, complete their high school education, and obtain employment. Job Corps has trained and educated over two million individuals since 1964.
+
+</p>
+','','2402 Swope Parkway Kansas City, MO 64130 United States',1),('Excelsior Springs Job Corps','
+<p>
+
+Job Corps is a no-cost education and career technical training program administered by the&nbsp;<a href="https://www.dol.gov/" target="_blank" rel="noreferrer noopener">U.S. Department of Labor</a>&nbsp;that helps young people ages 16 to 24 improve the quality of their lives through career technical and academic training. The Job Corps program is authorized by Title I-C of the&nbsp;<a href="https://www.doleta.gov/wioa/" target="_blank" rel="noreferrer noopener">Workforce Innovation and Opportunity Act of 2014</a>&nbsp;(supersedes WIA 1998).&nbsp;
+
+</p>
+','','701 Saint Louis Ave Excelsior Springs, MO 64024-2615',1),('Job Survival Hotline &#8211; 9to5','
+<p>9to5 members have been on the frontlines, working for economic security for all women?particularly women of color?for the past 45 years. We still have many barriers to overcome before we achieve our vision?<em>full economic equality</em></p>
+','','',1),('Women&#8217;s Employment Network','
+<p>
+
+To help women raise their self-esteem and achieve economic independence through sustained employment.
+
+</p>
+','','920 Main Street, Suite 100 Kansas City, Missouri 64105',1),('Full Employment Council','
+<p>
+
+The FEC is a business-led private non-profit corporation whose mission is to obtain public and private sector employment for the unemployed and the underemployed residents of the Greater Kansas City area.
+
+</p>
+','',' 1740 Paseo Blvd  Kansas City, MO ',1),('DFS Welfare to Work','
+<p>
+
+Families can get other types of support services to help in preparing them to work. They may receive these support services while they are getting cash assistance. These services can continue for a year after they quit getting cash assistance.
+
+</p>
+','','',1),('Save, Inc.','','','PO Box 45301  Kansas City, MO 64171',5),('Neighborhood Housing Services of KC','
+<p>
+
+NHS educates and assist individuals on the process of buying a home, obtaining mortgage loans, and responsible homeownership post purchase. Education Classes accounting for 37% of the clientele, Pre-Purchase Counseling 43%, and Post-Purchase Counseling 20%.
+
+</p>
+','','616 E. 63rd Street, Suite 200 Kansas City, MO 64110 ',5),('Phoenix Family Housing','
+<p>Empowering people living in low-income housing communities with the on-site<br>
+support they need to gain stability and achieve self-sufficiency.</p>
+','','3908 Washington, Kansas City, MO 64111',5),('Link for Care Housing Resources','
+<p>
+
+Link for Care is a free online resource to search a variety of services in the greater Kansas City area. There are over 9 counties, 119 cities, and 50 transportation services with a total of over 1400 services listed.&nbsp;
+
+</p>
+','','',5),('Housing Authority of Kansas City','
+<p>Develop, rehabilitate and manage decent, safe and sanitary quality<br>
+affordable housing in a manner that promotes equal opportunity, fair housing and the de-concentration<br>
+of race and poverty.</p>
+','','Housing Authority of Kansas City, MO 920 Main Street, Suite 701 Kansas City, Missouri 64105',5),('Community Action Agency of Greater Kansas City Weatheriziation Program','
+<p>HUD-approved homeownership development, foreclosure intervention and financial empowerment organization.</p>
+','','6323 Manchester Avenue Kansas City, Missouri 64133',5),('Habitat for Humanity Kansas City','
+<p>Working to fulfill the dream of home ownership for low-income families in the greater Kansas City<br>
+metropolitan area.</p>
+','','KCMO and KCKS',5),('United Services Community Action Agency','
+<p>
+
+The mission of CAAGKC is to assist low-income residents of Clay, Jackson and Platte counties in Missouri to become self-sufficient by providing comprehensive supportive services.
+
+</p>
+','','6323 Manchester Ave. Kansas City, MO 64133',5),('Hud Housing Referral and Counseling','
+<p>
+
+The Federal Housing Administration, generally known as &#8220;FHA&#8221;, provides mortgage insurance on loans made by FHA-approved lenders throughout the United States and its territories. FHA insures mortgages on single family homes, multifamily properties, residential care facilities, and hospitals. It is one of the largest insurers of mortgages in the world,&nbsp;insuring more than 46 million mortgages since its inception in 1934.
+
+</p>
+','','',5),('Hillcrest Transitional Housing','
+<p>
+
+Hillcrest Transitional Housing offers&nbsp;homeless&nbsp;families, singles and youth&nbsp;a disciplined educational program within a caring, supportive&nbsp;environment. Unlike many organizations whose focus is&nbsp;one-time or emergency care, Hillcrest?s primary objective is to move&nbsp;clients from homelessness to self-sufficiency by addressing the total life situation of the homeless families they serve.
+
+</p>
+','','P.O. Box 901924 Kansas City, MO 64190',5),('Guadalupe Centers','
+<p>Family support services, older adults program, teenage pregnancy prevention, youth development and<br>
+youth recreation, outpatient treatment program and workforce development.</p>
+','','1015 Avenida Cesar E Chavez Kansas City, MO 64108',6),('Redemptorist Social Services Center','
+<p>
+
+The mission of Redemptorist Social Services Center is to prevent a temporary crisis from becoming a permanent tragedy. The Center&#8217;s programs of assistance stabilize individuals, families and neighborhoods with long-term results benefiting the entire community.
+
+</p>
+','','207 West Linwood Boulevard Kansas City, MO 64111',6),('United Inner City Services','
+<p>
+
+UICS serves as a neighborhood anchor, providing a safe, warm, and inviting site for a variety of social services, early education programs, community arts programs, and neighborhood outreach.
+
+</p>
+','','2008 E. 12th Street Kansas City, MO 64127',6),('Della Lamb Community Services','
+<p>Serving Kansas City residents with rent, utility, food, back-to-school supplies and holiday assistant.<br>
+Helping those most in need while on the path to self-sufficiency.</p>
+','','500 Woodland Ave KCMO 64106',6),('Housing Authority of KCKS','
+<p>HUD, Public Housing &amp; Section 8</p>
+','','1124 North 9th Street KCK 66101',5),('Housing Authority of KCMO','
+<p>The Mission of the Housing Authority of Kansas City, Missouri is to develop, rehabilitate and manage decent, safe and sanitary quality affordable housing in a manner that promotes equal opportunity, fair housing and the deconcentration of race and poverty. In accomplishing this goal, HAKC is committed to maintaining its developments as affordable housing assets that can meet the needs of low-income households in the long term and serve as viable community resources promoting economic independence and self-sufficiency for its residents.&nbsp;&nbsp;
+
+</p>
+','','920 Main Street, Suite 701 Kansas City, Missouri 64105',5),('Kansas City Westside Housing','
+<p>Our mission is to build robust&nbsp;sustainable communities. We engage residents,&nbsp;local businesses and key stakeholders to rebuild&nbsp;neighborhoods so they are safe, affordable and&nbsp;healthy places where diverse people want to live,&nbsp;work and play.&nbsp;Westside Housing demonstrates&nbsp;the principles of sustainability in all lines of&nbsp;business and the communities we serve. </p>
+','','919 West 24th Street Kansas City, MO 64108',5),('Jewish Family Services','','','5801 W. 115TH ST., SUITE 103 | OVERLAND PARK, KS 66211',6),('Greater Kansas City Housing Information Center','
+<ul><li>Services at no charge to individuals, families, homeowners, and tenants seeking to buy a home or a homeowner</li><li>Serving Missouri and Kansas</li><li>The agency is certified by the department of&nbsp; Housing and Urban Development as housing counselors, and provide comprehensive counseling</li></ul>
+','','3200 Wayne Avenue, Suite 222 Kansas City, MO 64109',5),('Greater Kansas City Coalition to End Homelessness','
+<p>
+
+The Greater Kansas City Coalition to End Homelessness is the Lead Agency of the Wyandotte County, Kansas and Jackson County, Missouri Continuum of Care. You will find us and members of our Coalition working hard throughout the community to end homelessness in the Kansas City metro.
+
+</p>
+','','3200 Wayne #202 KCMO 64109',6),('Missouri Division Of Family Services','','','615 E 13th St, Kansas City, MO 64106',6),('Community Linc','
+<p>Ending homelessness  for this generation and the next! </p>
+','','4012-14 Troost KCMO ',6),('Hope House','','','Hope House P.O. Box 577 Lee''s Summit, MO 64063',7),('Paseo Clinic','','','1000 E. 24th St. Kansas City, MO 64108',8),('Rehabs.com','
+<p>American Addiction Centers offers a national directory and library of resources to you and your loved ones so you can find the path that best suits your needs.</p>
+','','',8),('First Call Alcohol/Drug Prevention and Recovery','
+<p>Reducing the impact of alcohol, drugs, and addiction by<br>
+providing quality resources to individuals, families, and the community.<br>
+Heartland Center for Behavioral Change &#8211; Substance abuse treatment and</p>
+','','  9091 State Line Road | Kansas City, MO 64114',8),('Kansas City, MO ADA','
+<p>Learn about the Americans with Disabilities Act, read answers to<br> frequently asked questions about ADA compliance and contact the City?s ADA Compliance Manager.</p>
+','','414 E. 12th Street Kansas City, MO 64106',9),('The Whole Person (KS)','
+<p>They offer a broad range of services to people with disabilities to increase their ability to perform<br>
+day-to-day activities and reduce the need of support from family members, professional attendants or<br>
+other care-giving services.</p>
+','','8040 Parallel Parkway, Ste. 300 Kansas City, KS 66112',9),('The Whole Person (MO)','
+<p>They offer a broad range of services to people with disabilities to increase their ability to perform<br>
+day-to-day activities and reduce the need of support from family members, professional attendants or<br>
+other care-giving services.</p>
+','','3710 Main Street, Kansas City,MO 64111',9),('Parents of Murdered Children','
+<h4>Why we are here</h4>
+
+
+
+<ul><li>To support persons who survive the violent death of someone close as they seek to recover.</li><li>To provide contact with similarly bereaved persons and to establish self-help groups that meet regularly.</li><li>To provide information about the grieving process and the criminal justice system as they pertain to survivors of a homicide victim.</li><li>To communicate with professionals in the support fields about the problems experienced by those surviving a homicide victim.</li><li>To increase society&#8217;s awareness of these problems.</li></ul>
+','','',10),('Compassionate Friends','
+<p>Support for bereaved parents</p>
+
+
+
+<p> <strong>The Kansas City Chapter</strong>  &#8211;  Chapter Phone Line: (816) 229-2640                                                                                                                                <strong>Wyandotte County Chapter</strong>  &#8211;  Richard: (913)-238-1890 or Marlene: (913) 238-8348 </p>
+','','',10),('Help For KC','
+<p> Kansas City Area Resources </p>
+','','',10),('Medical Examiner&#8217;s Office','','','',10),('Ask-A-Nurse','','','',11),('KC Rescue Mission','
+<p>
+
+Kansas City Rescue Mission is&nbsp;a Christ-centered community&nbsp;offering freedom and hope&nbsp;<br>to the poor&nbsp;and homeless,&nbsp;empowering them to&nbsp;reach their full potential.
+
+</p>
+','','1520 Cherry St. Kansas City, MO 64108',7),('Mother&#8217;s Refuge','
+<p>Our mission is to shelter and educate homeless, pregnant and parenting young women by providing comprehensive services that empower them to make successful life decisions for themselves and their babies.</p>
+','','14400 E 42nd St. South Suite 220 Independence, MO 64055',7),('ReStart','
+<p><strong>reStart</strong>&nbsp;provides housing and supportive services to help homeless men, women, youth and families move toward independence and self-sufficiency with the goal of ending homelessness in our community.
+
+</p>
+','','918 East 9th St. Kansas City, MO 64106',7),('Sheffield Place','
+<p><strong>The mission of Sheffield Place is ?To empower homeless mothers and their children to heal from their trauma and become self-sufficient.?</strong></p>
+','','Kansas City, MO',7),('Safe Haven/Synergy Services','
+<p>
+
+Shelter is the primary need for our domestic violence clients and we have a proud tradition of high-quality services at our Domestic Violence Center. Residents receive food, personal care products, access to public transportation and assistance with legal matters and life skills.
+
+</p>
+','','Parkville, MO',7),('Sarita Lynne Ministries','<p><!--StartFragment--></p>
+
+
+<p>
+
+The purpose is to offer the opportunity to endeavor to improve the quality of life in our community, in fighting back to help reverse the effects of homelessness, opioids addiction, drugs/alcohol in our community and reduce the recidivism rate of ex-offenders for life advancement&nbsp;<br></p>
+
+
+<p><!--EndFragment--></p>','','Kansas City, MO',7),('Safe Home','
+<p>
+
+SAFEHOME provides a healing atmosphere where survivors of domestic violence can gain inner strength, build self-esteem, explore options, and establish a life free of violence. Through SAFEHOME?s shelter and community services, approximately 8,000 individuals each year receive the support they need to lead healthy, independent lives.
+
+</p>
+','','Shawnee Mission, KS',7),('Rose Brooks','
+<p>
+
+We can provide crisis intervention, safety planning, connection to domestic violence resources, and assistance in English and Spanish with access to language services through an interpreter.
+
+</p>
+','','Midtown Kansas City, MO',7),('New House','
+<p>NEWHOUSE SEEKS TO BREAK THE CYCLE OF DOMESTIC VIOLENCE BY PROVIDING THE TOOLS THAT ALLOW INDIVIDUALS&nbsp;<em>&amp;</em>&nbsp;FAMILIES TO MAKE POSITIVE CHOICES AND LEAD SELF-SUFFICIENT LIVES.</p>
+','','P.O. Box 240019 Kansas City, MO 64124-0019',3),('Friends of Yates','
+<p>
+
+Friends of Yates is a comprehensive community agency that provides a full menu of community care and support including domestic violence education, prevention services, youth and adult development and emergency shelter and resources to survivors and their family.
+
+</p>
+','','Kansas City, KS',3),('Hope Haven of Cass County','
+<p>
+
+Hope Haven exists to provide safe shelter, concentrated supportive services, community resources, and education to survivors of domestic and sexual violence.
+
+</p>
+','','Harrisonville, MO',7),('Heartland Center for Behavior Change','
+<p>Substance abuse treatment and behavioral healthcare services.<strong><br></strong></p>
+','','(Administrative Offices)1730 Prospect Avenue Kansas City, Missouri 64127 ',8),('Missouri Shield of Service (MOSOS)','
+<p>Social detox, assistance for entry into treatment program. Services available to men and women.<br></p>
+','','5100 E. 24th. Kansas City, MO 64127',8),('Alcoholics Anonymous (Family/Friends)','
+<p>Non Professional, self supporting, spiritually based, apolitical, welcomes all cultures and is available almost everywhere. Each member has been affected by someone else?s drinking.<strong><br></strong></p>
+','','',8),('Vibrant Health Clinics','
+<p><strong><u>3 Locations</u></strong></p>
+
+
+
+<ul><li>Central 21 N 12th St. Suite 300 KCKS 66102</li><li>Children?s Campus 444 Minnesota Ave KCKS 66101</li><li>Argentine 1428 S 32nd St #100 KCKS 66106</li></ul>
+','','KCKS',11),('Logisticare','
+<p>Provides transport for medical resources. </p>
+','','',11),('Artists for the Homeless','
+<p>Provides medical transportation between 5pm -1pm. <br></p>
+','','',11),('Swope Health Services','
+<p>Inpatient residential and outpatient drug and alcohol recovery services. Serves individuals age 12-21 with substance abuse history. Sliding scale payment Medicaid, private insurance and private pay accepted.</p>
+','','3801 Blue Pkwy 64130',11),('Riverview Health Services','
+<p>Connects uninsured children and adults with affordable health services, short term medication assistance, diabetes testing supplies and other medical supplies, homeless medication services.</p>
+','','722 Reynolds Ave KCKS 66101',11),('Quindaro Family HealthCare','
+<p>Maternal Care, Chronic and preventative care including serious illnesses, pediatric and adult care.<br></p>
+','','530 Quindaro Blvd KCKS 66101',11),('Providence Medical Center','','','8929 Parallel Pkwy KCKS 66112',11),('Project Eagle/Healthy Start','
+<p>Early developmental screening and referral services, full-year center-based early childhood education services and home visiting programs for pregnant women and children ages birth to three.</p>
+','','444 Minnesota Ave KCKS 66101',11),('Poison Control','
+<p>Alt Phone Number: <strong>1-800-366-8888</strong></p>
+','','',11),('KC Care Health Clinic','
+<ul><li>Medical 3515 Broadway KCM0 64111 816-753-5141</li><li> Dental 5119 E 24th KCMO 64127 816-777-2790 </li></ul>
+
+
+
+<p><br></p>
+','','3515 Broadway Blvd, Kansas City MO 64111',11),('KC Medicine Cabinet','
+<p>Provides short term emergency medical assistance to those in need.</p>
+','','',11),('Jay Doc Free Clinic','
+<p> Student-run clinic provides non-emergency urgent and preventative care to the uninsured and underinsured populations of Greater Kansas City.</p>
+','','300 Southwest Blvd KCKS 66103',11),('KanCare','
+<p>Medicaid information concerning Kansas Healthcare.</p>
+','','',11),('Dushene Clinic','
+<p>We provide routine, preventative care and acute care, such as cold, flu and viruses. We also offer additional services such as: chronic disease management, referrals and bilingual diabetes education<br></p>
+','','636 Tauromee Ave KCKS 66101',11),('Children&#8217;s Mercy West','','','4313 State Avenue West KCKS 66102',11),('Children&#8217;s Mercy Hospital','','','2401 Gillham Rd 64108',11),('Hands That Heal','
+<p>
+
+Physical Therapy Services for uninsured and Under Served: Joint and Spinal Pain, Arthritis, fibromyalgia, post-surgical conditions, tendinopathies/tendinitis, headaches, chronic and traumatic pain, gait abnormalities, strains/sprains, weakness 
+
+</p>
+','','500 N 7th Street Trfwy KCKS 66101',11),('Family Health CARE','
+<p>Pharmacy, Behavior Checker, Fitness, Clinics, Social Service Assessments, Medication Assistance Program, Health Education and Advocacy, Connection for Ryan White, Speciality Referrals<br></p>
+','','340 Southwest Blvd KCKS 66103',11),('Bert Nash','
+<p> Provides innovative, research-based services that address diverse mental health needs of children and adults.</p>
+','','200 Maine Street Lawrence, KS 66044',11),('Amerigroup Kansas','
+<p>Amerigroup Kansas is one of three managed care organizations (MCOs) selected to administer the KanCare program. One of the health plans that will offer access to coordinated, holistic health care to KanCare members.</p>
+','','',11),('Welcome House','
+<p>Facility for recovery. &nbsp;Residents must have completed detox before entering and must attend AA and counseling sessions during their stay. Weekly rent is required and an application is available online.<br></p>
+','','1414 E. 27th St. Kansas City, MO 64108',8),('Truman Medical Center Behavioral Health','
+<p>Outpatient intensive, Outpatient Services for both children and adults, Community Outreach, Community Assistance, New Frontiers Medicare/Medicaid accepted</p>
+','','2301 Holmes Kansas City, MO 64108 ',8),('Samuel Rodgers Health Center South','
+<p>Substance Abuse treatment program for Missouri residents over age 18 with drug abuse history.<br></p>
+','','2701 E. 31 St. Kansas City, MO 64127',8),('Salvation Army','
+<p>Adult Rehabilitation 6 months or longer</p>
+','','1310 E 10th St Kansas City, MO 64106',8),('ReDiscover','
+<p>Mental health, substance use disorders, crisis and outreach.</p>
+','','301 East Armour Blvd. Kansas City, MO 64111',8),('Oxford House','
+<p>Housing for men over 18 recovering from alcohol/drug problems &#8230; must be able to pay rent.</p>
+
+
+
+<p><strong>5 Locations</strong></p>
+
+
+
+<ol><li>1842 E. 49th. St. Kansas City, MO 64111 816-921-1012</li><li>2741 Holmes Kansas City, MO 64108 816-842-1634</li><li>3112 Linwood Blvd Kansas City, MO 64128 816-921-4107</li><li>1229 Benton Blvd Kansas City, MO 64127 816-231-8086</li><li>3221 Olive Kansas City, MO 64130 816-923-3314</li></ol>
+
+
+
+<p></p>
+','','',8),('KC VA Medical Center','
+<p> Services Offered:  In patient; Intensive outpatient; intervention; accepts Medicare/Medicaid.</p>
+','','4801 E Linwood Blvd Kansas City, MO 64128',11),('Guadalupe Center','
+<p>Dia Por Dia Outpatient Treatment Program will provide community residents access to substance abuse treatment services that is available in the language the participant chooses. Family Support Services, Older Adults Program, Teenage pregnancy prevention program, youth development, youth recreation program, Federal Credit Union, Outpatient Treatment Program, Workforce Development<br></p>
+','','1015 Avenida de Cesar Chavez Kansas City, MO 64108',8),('Families Anonymous','
+<p>Twelve-step, self-help recovery for relatives and friends of individuals with alcohol, Drug or emotional problems.<br></p>
+','','',8),('Dismas House of Kansas City, Inc.','
+<p>Outpatient treatment program for drug/alcohol recovery, must be Jackson County resident, all ages.<br></p>
+','','207 W. Linwood Kansas City, MO 64111',8),('Crittenton Children?s Center','
+<p>Intensive individual and group outpatient substance abuse treatment programs for adolescents and their families.<br></p>
+','','10918 Elm Kansas City, MO',8),('Comprehensive Mental Health','
+<p> Adult Community Support, Crisis, Employment Services, Family &amp; Youth, Healthcare Home, Mental Health Court, Opioid Use Disorders, Outpatient, Substance Use Treatment<br></p>
+','','10901 Winner Road Independence, MO 64052',4),('City Union Mission','
+<ul><li>Family Center &#8211; <strong>&nbsp;</strong>1310 Wabash Kansas City, MO 64127 816-329-1410<ul><li>Women, children and families the physical essentials and the emotional and spiritual guidance they need to achieve stability</li><li>Youth Services &#8211; Offering homeless and inner-city children the physica, mental, and spiritual guidance necessary to break the cycle of poverty and grow into upstanding members of our community and our world <ul><li> Camp CUMCITO</li></ul></li></ul></li></ul>
+
+
+
+<ul><li>Men?s Services &#8211; Biblically based assistance, rehabilitation and discipleship for men who need help with life essentials and for those who are ready to build stable futures &#8211; Men?s Shelter &#8211; 1108 E 10th St. Kansas City, MO 64106<ul><li>Christian Life Center: 1111 E 10th St. Kansas City, MO 64106</li></ul></li><li>Community Assistance &#8211; Community Assistance Center: 1700 E 8th St. Kansas City, Mo 64106 &#8211; City Union Mission offers vital assistance to ease the burdens of neighbors who are struggling</li></ul>
+','','',7),('Tri-County Mental Health Services','
+<p>Prevention, assessment and treatment services for individuals and families throughout Clay, Platte and Ray counties.</p>
+','','3100 NE 83rd Street Kansas City, MO 64119',4),('StartYourRecovery.org','
+<p>Compare accredited drug and alcohol rehab centers in Kansas City. View facilities, special programs, and treatment options.<br></p>
+','','',8),('Recovery.org','
+<p>Top Kansas City addiction recovery centers reviews and ratings</p>
+','','',8),('Catholic Charities of KC','
+<p>Neighborhoods of hope, mom?s empowerment, housing, workforce development, education, support, health, emergency assistance, veterans services, disability and deaf services, adoptions and housing for seniors and disabled.<br></p>
+','','1112 Broadway Kansas City, MO 64105',6),('Benilde Hall','
+<p>Housing, counseling and transportation in men in drug and alcohol recovery, all ages served. $14/day rent, private insurance and private pay accepted.</p>
+','','3220 E. 23rd. St. Kansas City, MO 64111',8),('Renaissance West','
+<p>Services: Social detox, case management, residential treatment services, employee assistance programs, outpatient services, and continuing care. Treatment program lasts 60-90 days and is available to men and women residents of Missouri over age 18.<br></p>
+','','5840 Swope Pkwy Kansas City, MO',8),('Alcoholics Anonymous','<p>Services Offered: Non Professional, self supporting, spiritually based, apolitical, welcomes all cultures and is available almost everywhere Each member has been affected by someone else?s drinking.</p>
+','','',8)
